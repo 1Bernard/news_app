@@ -1,14 +1,13 @@
 [versions]
 accompanistSystemuicontroller = "0.31.4-beta"
-agp = "8.7.2"
-androidxRoomCompiler = "2.5.0"
+agp = "8.7.3"
+androidxRoomCompiler = "2.6.1"
 coilCompose = "3.0.3"
 coilNetworkOkhttp = "3.0.3"
-converterGson = "2.11.0"
 converterGsonVersion = "2.9.0"
 coreSplashscreen = "1.0.1"
 datastorePreferences = "1.1.1"
-foundation = "1.7.5"
+foundation = "1.7.6"
 hiltAndroidCompiler = "2.51.1"
 hiltNavigationCompose = "1.2.0"
 kotlin = "2.0.0"
@@ -18,15 +17,13 @@ junitVersion = "1.2.1"
 espressoCore = "3.6.1"
 lifecycleRuntimeKtx = "2.8.7"
 activityCompose = "1.9.3"
-composeBom = "2024.11.00"
-material = "1.7.5"
-navigationCompose = "2.8.4"
-pagingCompose = "3.3.4"
-pagingRuntime = "3.1.1"
+composeBom = "2024.12.01"
+material = "1.7.6"
+navigationCompose = "2.8.5"
+pagingCompose = "3.3.5"
+pagingRuntime = "3.3.5"
 retrofit = "2.11.0"
 retrofitVersion = "2.9.0"
-roomCompiler = "2.6.1"
-roomCompilerVersion = "2.6.0"
 roomRuntime = "2.5.2"
 
 [libraries]
@@ -42,15 +39,11 @@ androidx-material = { module = "androidx.compose.material:material", version.ref
 androidx-navigation-compose = { module = "androidx.navigation:navigation-compose", version.ref = "navigationCompose" }
 androidx-paging-compose = { module = "androidx.paging:paging-compose", version.ref = "pagingCompose" }
 androidx-paging-runtime = { module = "androidx.paging:paging-runtime", version.ref = "pagingRuntime" }
-androidx-room-compiler = { module = "androidx.room:room-compiler", version.ref = "roomRuntime" }
 androidx-room-compiler-v250 = { module = "androidx.room:room-compiler", version.ref = "androidxRoomCompiler" }
-androidx-room-compiler-v260 = { module = "androidx.room:room-compiler", version.ref = "roomCompilerVersion" }
-androidx-room-compiler-v261 = { module = "androidx.room:room-compiler", version.ref = "roomCompiler" }
 androidx-room-ktx = { module = "androidx.room:room-ktx", version.ref = "roomRuntime" }
 androidx-room-runtime = { module = "androidx.room:room-runtime", version.ref = "roomRuntime" }
 coil-network-okhttp = { module = "io.coil-kt.coil3:coil-network-okhttp", version.ref = "coilNetworkOkhttp" }
 coil-compose = { module = "io.coil-kt.coil3:coil-compose", version.ref = "coilCompose" }
-converter-gson = { module = "com.squareup.retrofit2:converter-gson", version.ref = "converterGson" }
 converter-gson-v290 = { module = "com.squareup.retrofit2:converter-gson", version.ref = "converterGsonVersion" }
 hilt-android = { module = "com.google.dagger:hilt-android", version.ref = "hiltAndroidCompiler" }
 hilt-android-compiler = { module = "com.google.dagger:hilt-android-compiler", version.ref = "hiltAndroidCompiler" }
@@ -67,7 +60,6 @@ androidx-ui-tooling-preview = { group = "androidx.compose.ui", name = "ui-toolin
 androidx-ui-test-manifest = { group = "androidx.compose.ui", name = "ui-test-manifest" }
 androidx-ui-test-junit4 = { group = "androidx.compose.ui", name = "ui-test-junit4" }
 androidx-material3 = { group = "androidx.compose.material3", name = "material3" }
-retrofit = { module = "com.squareup.retrofit2:retrofit", version.ref = "retrofit" }
 retrofit-v290 = { module = "com.squareup.retrofit2:retrofit", version.ref = "retrofitVersion" }
 
 [plugins]

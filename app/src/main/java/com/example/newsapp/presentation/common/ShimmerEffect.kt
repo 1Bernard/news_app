@@ -97,8 +97,8 @@ fun ArticleCardShimmerEffect(
     }
 }
 
-@Preview(showBackground = true)
-@Preview(showBackground = true, uiMode = UI_MODE_NIGHT_YES)
+@Preview(showBackground = true, showSystemUi = true)
+@Preview(showBackground = true, uiMode = UI_MODE_NIGHT_YES, showSystemUi = true)
 @Composable
 fun ArticleCardShimmerEffectPreview() {
     NewsAppTheme {
