@@ -38,7 +38,7 @@ The application offers features such as news search, bookmarking, article sharin
 
 ---
 
-## Screenshots
+## Preview
 
 <img src="https://github.com/user-attachments/assets/960d0867-3f72-4187-a5ac-1067af0f4d94" alt="Home Page" width="400px">
 <img src="https://github.com/user-attachments/assets/cc9d4d17-06e0-4e46-aca4-2ee07b0bb2e9" alt="Settings Page" width="400px">
@@ -48,9 +48,6 @@ The application offers features such as news search, bookmarking, article sharin
 <img src="https://github.com/user-attachments/assets/1af3411e-6f4c-43a4-9a1e-aa2ce402dcaa" alt="Share Page" width="400px">
 <img src="https://github.com/user-attachments/assets/caa72d0d-57a4-41b5-a417-4515978068bc" alt="Search Page" width="400px">
 <img src="https://github.com/user-attachments/assets/463d90f8-b7e0-42f9-89af-6182de60277a" alt="Bookmark Page" width="400px">
-
-
-
 
 ---
 
