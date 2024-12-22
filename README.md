@@ -1,7 +1,7 @@
 # News Application
 
 ## Overview
-This project is a news application developed using **Jetpack Compose** and follows the **MVVM architecture** to ensure clean code, maintainability, and scalability. It was inspired by a friendly challenge from a colleague, Yesuko, which encouraged a deeper dive into modern Android development practices.
+This project is a news application developed using **Jetpack Compose** and follows the **MVVM and MVI architecture** to ensure clean code, maintainability, and scalability. It was inspired by a friendly challenge from a colleague, Yesuko, which encouraged a deeper dive into modern Android development practices.
 
 The application offers features such as news search, bookmarking, article sharing, and direct routing to the original media outlets. The project is designed with a focus on providing a seamless and intuitive user experience.
 
@@ -31,7 +31,7 @@ The application offers features such as news search, bookmarking, article sharin
 
 - **Kotlin**: The main programming language used.
 - **Jetpack Compose**: For building the UI in a modern, declarative style.
-- **MVVM Architecture**: Ensures a separation of concerns and enhances code testability.
+- **MVVM and MVI Architecture**: Ensures a separation of concerns and enhances code testability.
 - **Kotlin Coroutines and Flow**: For managing asynchronous operations and reactive updates.
 - **Navigation Component**: For easy routing and navigation between screens.
 - **NewsAPI.org**: Used for fetching real-time news articles. See the [API Documentation](https://newsapi.org/docs/endpoints/everything) for details.
