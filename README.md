@@ -40,14 +40,14 @@ The application offers features such as news search, bookmarking, article sharin
 
 ## Screenshots
 
-![Screenshot_20241222-180038](https://github.com/user-attachments/assets/960d0867-3f72-4187-a5ac-1067af0f4d94)
-![Screenshot_20241222-180454](https://github.com/user-attachments/assets/caa72d0d-57a4-41b5-a417-4515978068bc)
-![Screenshot_20241222-180411](https://github.com/user-attachments/assets/463d90f8-b7e0-42f9-89af-6182de60277a)
-![Screenshot_20241222-180242](https://github.com/user-attachments/assets/1af3411e-6f4c-43a4-9a1e-aa2ce402dcaa)
-![Screenshot_20241222-180147](https://github.com/user-attachments/assets/94174782-133a-4ba3-a306-81d023044bfb)
-![Screenshot_20241222-180136](https://github.com/user-attachments/assets/dfc46cce-fc66-42b5-ad16-875e95e94738)
-![Screenshot_20241222-180049](https://github.com/user-attachments/assets/9ac6623e-b4e5-4366-a78c-d2c3193d9054)
-![Screenshot_20241222-180044](https://github.com/user-attachments/assets/cc9d4d17-06e0-4e46-aca4-2ee07b0bb2e9)
+<img src="https://github.com/user-attachments/assets/960d0867-3f72-4187-a5ac-1067af0f4d94" alt="Home Page" width="400px">
+<img src="https://github.com/user-attachments/assets/cc9d4d17-06e0-4e46-aca4-2ee07b0bb2e9" alt="Settings Page" width="400px">
+<img src="https://github.com/user-attachments/assets/9ac6623e-b4e5-4366-a78c-d2c3193d9054" alt="Navigation Drawer" width="400px">
+<img src="https://github.com/user-attachments/assets/caa72d0d-57a4-41b5-a417-4515978068bc" alt="Search Page" width="400px">
+<img src="https://github.com/user-attachments/assets/463d90f8-b7e0-42f9-89af-6182de60277a" alt="Bookmark Page" width="400px">
+<img src="https://github.com/user-attachments/assets/1af3411e-6f4c-43a4-9a1e-aa2ce402dcaa" alt="Share Page" width="400px">
+<img src="https://github.com/user-attachments/assets/94174782-133a-4ba3-a306-81d023044bfb" alt="Routing Page" width="400px">
+<img src="https://github.com/user-attachments/assets/dfc46cce-fc66-42b5-ad16-875e95e94738" alt="Bookmark View" width="400px">
 
 ---
 
