@@ -34,9 +34,9 @@ The application offers features such as news search, bookmarking, article sharin
 - **MVVM and MVI Architecture**: Ensures a separation of concerns and enhances code testability.
 - **Kotlin Coroutines and Flow**: For managing asynchronous operations and reactive updates.
 - **Navigation Component**: For easy routing and navigation between screens.
-- **Retrofit: For making API calls to fetch news articles.
-- **Room: For local data storage and management.
-- **Dagger Hilt: For dependency injection to simplify code and improve scalability.
+- **Retrofit**: For making API calls to fetch news articles.
+- **Room**: For local data storage and management.
+- **Dagger Hilt**: For dependency injection to simplify code and improve scalability.
 - **NewsAPI.org**: Used for fetching real-time news articles. See the [API Documentation](https://newsapi.org/docs/endpoints/everything) for details.
 
 ---
