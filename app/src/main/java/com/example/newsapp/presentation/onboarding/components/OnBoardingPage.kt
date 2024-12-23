@@ -12,12 +12,10 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.layout.ContentScale
-import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.newsapp.R
 import com.example.newsapp.presentation.Dimens.MediumPadding1
 import com.example.newsapp.presentation.Dimens.MediumPadding2
 import com.example.newsapp.presentation.onboarding.Page
@@ -44,14 +42,12 @@ fun OnBoardingPage(
             text = page.title,
             modifier = Modifier.padding(horizontal = MediumPadding2),
             style = MaterialTheme.typography.displaySmall.copy(fontWeight = FontWeight.Bold),
-            color = colorResource(id = R.color.display_small),
             textAlign = TextAlign.Center
         )
         Text(
             text = page.description,
             modifier = Modifier.padding(horizontal = MediumPadding2),
             style = MaterialTheme.typography.bodyMedium,
-            color = colorResource(id = R.color.text_medium),
             textAlign = TextAlign.Center
         )
 
